@@ -26,4 +26,3 @@ A web application for generating customizable QR codes with centered logos and d
 ## 📫 Connect With Me
 
 - [LinkedIn](https://linkedin.com/in/princedeaustria)
-- [Email](mailto:YOUR_EMAIL)
