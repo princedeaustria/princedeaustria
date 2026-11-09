@@ -4,7 +4,7 @@
 
 I build enterprise applications, integrations, and automation that improve reliability, simplify operations, and help teams deliver software with confidence.
 
-My experience spans solution architecture, full-stack development, SQL Server optimization, automated testing, CI/CD, and production support. I work across the software development lifecycle—from translating business requirements into technical designs to deploying and supporting production systems.
+My experience spans solution architecture, full-stack development, SQL Server optimization, automated testing, CI/CD, and production support. I work across the software development lifecycle from translating business requirements into technical designs to deploying and supporting production systems.
 
 ## Engineering Impact
 
