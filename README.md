@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I’m Prince De Austria 👋
 
-<!--
-**princedeaustria/princedeaustria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT professional focused on automation, systems administration, and building practical tools that reduce repetitive work.
 
-Here are some ideas to get you started:
+I enjoy turning manual technical processes into reliable, repeatable workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Work With
+
+- PowerShell automation
+- Windows endpoint provisioning
+- IT operations and change management
+- Web-based internal tools
+- HTML, CSS, and JavaScript
+
+## 🚀 Featured Projects
+
+### [Change Management Tracker](https://github.com/princedeaustria/change-management-tracker)
+A tool for recording, reviewing, and approving changes to help teams stay organized and reduce operational risk.
+
+### [LINC Setup](https://github.com/princedeaustria/linc-setup)
+PowerShell automation for resetting and provisioning Windows devices with a standard local user, custom applications, scheduled tasks, and Windows Update.
+
+### [LogoQR](https://github.com/princedeaustria/logoqr)
+A web application for generating customizable QR codes with centered logos and downloadable image output.
+
+## 📫 Connect With Me
+
+- [LinkedIn](YOUR_LINKEDIN_URL)
+- [Email](mailto:YOUR_EMAIL)
