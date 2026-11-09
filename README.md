@@ -25,5 +25,5 @@ A web application for generating customizable QR codes with centered logos and d
 
 ## 📫 Connect With Me
 
-- [LinkedIn](YOUR_LINKEDIN_URL)
+- [LinkedIn](https://linkedin.com/in/princedeaustria)
 - [Email](mailto:YOUR_EMAIL)
